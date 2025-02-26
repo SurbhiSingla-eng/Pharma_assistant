@@ -30,6 +30,9 @@ A comprehensive healthcare management system for processing prescriptions, analy
 3. Install Tesseract OCR
 4. Set up a Google Cloud service account and place the `service_account.json` file in the project root
 
+## Spreadsheet link
+https://docs.google.com/spreadsheets/d/1s-DWasKNGpp4TM_CFn7CPh_PEE0iMQF0JSFEAMBAGWU/edit?gid=0#gid=0
+
 ## Usage
 
 Run the main application:
