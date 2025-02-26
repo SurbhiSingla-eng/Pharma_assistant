@@ -42,9 +42,5 @@ The application provides a text-based menu to:
 ## Project Structure
 
 - `src/`: Main source code
-  - `processors/`: Prescription and image processing
-  - `analyzers/`: Diagnostic analysis
-  - `database/`: Data storage functionality
-  - `utils/`: Helper functions and constants
-  - `main.py`: Entry point
+
 
