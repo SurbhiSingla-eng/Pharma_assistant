@@ -1,0 +1,7 @@
+pytesseract
+Pillow
+opencv-python
+numpy
+requests
+gspread
+google-auth
